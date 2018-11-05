@@ -1,3 +1,3 @@
 # README
 
-Empty Rails application with webpack
+Календарь-планировщик
